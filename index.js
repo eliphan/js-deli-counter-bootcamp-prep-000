@@ -4,7 +4,7 @@ function takeANumber (line, name) {
   
   const l = deliLine.length
   var i = 0
-  for (i = 0; i < l; i++) {
+  for (let i = 0; i < l; i++) {
   
   deliLine.push(`Welcome, ${name[i]}. You are number ${linelength[i]} in line`)
   }
