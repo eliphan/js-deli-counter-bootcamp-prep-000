@@ -6,5 +6,7 @@ function takeANumber (line, name) {
   
   for (i = 0; i < l; i++) {
   
-  return (`Welcome, ${name}. You are number ${linelength} in line`)
+  deliLine.push(`Welcome, ${name}. You are number ${linelength} in line`)
+  
+  
 }
