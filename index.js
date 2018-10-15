@@ -1,6 +1,10 @@
 
 function takeANumber (line, name) {
   var deliLine = []
-  const lineLength = deliLine.length
+  
+  const l = deliLine.length
+  
+  for (i = 0; i < l; i++) {
+  
   return (`Welcome, ${name}. You are number ${linelength} in line`)
 }
