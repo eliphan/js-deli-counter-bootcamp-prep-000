@@ -17,5 +17,7 @@ function takeANumber (line, name) {
      return "The line is currently empty."
    } 
    
-   const name =
+   const name = []
+   
+   
  }
