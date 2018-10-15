@@ -19,7 +19,7 @@ function takeANumber (line, name) {
    
    const name = []
    for (let i = 0; i < line.length; i++) {
-     name 
+     name.push
    }
    
    
