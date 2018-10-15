@@ -22,6 +22,6 @@ function takeANumber (line, name) {
      name.push(`${i + 1}. ${line[i]}`)
    }
    
-   return (`The line is currently `)
+   return (`The line is currently:${name}, ${name2}`)
  }
  
